@@ -39,7 +39,7 @@
 ### 📫 Contato
 
 - ✉️ gabrielrossi2030@gmail.com
-- 💼 [LinkedIn ou portfólio se tiver](https://www.linkedin.com/in/gabriel-inouhe-assencio-rossi-77a882287/)
+- 💼 https://www.linkedin.com/in/gabriel-inouhe-assencio-rossi-77a882287/
 
 ---
 
