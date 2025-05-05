@@ -1,6 +1,6 @@
 <!-- README estilizado pro perfil GitHub -->
 
-<h1 align="center">Fala dev, eu sou o [Gabriel Rossi] 👾</h1>
+<h1 align="center">Fala dev, eu sou o Gabriel Rossi 👾</h1>
 
 <p align="center">
   🚀 Programador em formação | Futuro Engenheiro de Software
