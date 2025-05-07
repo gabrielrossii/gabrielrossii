@@ -12,7 +12,7 @@
 
 - 👨‍💻 Começando minha jornada no mundo da programação
 - 🎯 Focado em aprender **Engenharia de Software**
-- 📚 Estudando: **Python**, **JavaScript** e **Estrutura de Dados**
+- 📚 Estudando: **Python**, **JavaScript**, **Java**, **e** **MySQL** e **Estrutura de Dados**
 - 🌱 Sempre buscando boas práticas e código limpo
 - 🎮 Viciado em lógica, desafios e problemas reais
 
